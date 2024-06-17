@@ -29,7 +29,7 @@ python posecontrol.py
 
 Make sure your webcam is connected and properly configured.
 
-##How It Works
+## How It Works
 The project uses the following libraries:
 
     cv2 (OpenCV) for capturing video input and processing images.
