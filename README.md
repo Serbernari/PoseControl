@@ -5,14 +5,6 @@ Pose recognition game controls
 
 PoseControl leverages MediaPipe Pose and OpenCV to create game controls based on real-time pose recognition. This project detects specific body movements to trigger game actions such as attacking, blocking, and dodging.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## Features
 - **Real-time Pose Detection:** Uses MediaPipe Pose for accurate and efficient pose estimation.
 - **Game Controls Integration:** Maps specific body movements to game actions like attack, block, and dodge.
